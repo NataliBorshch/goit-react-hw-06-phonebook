@@ -1,0 +1,18 @@
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+}
+.item {
+  padding: 15px;
+  border-radius: 10px;
+  margin: 5px;
+  box-shadow: 0 0 10px rgba(117, 178, 235, 0.5);
+  background-color: white;
+  color: rgb(25, 129, 189);
+}
+
+p {
+  margin: 0px;
+  padding: 4px;
+}
